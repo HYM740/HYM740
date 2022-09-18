@@ -2,6 +2,8 @@
 
 HYM740 && バターネコ
 
+BLOG [菜狗鱼塘](https://www.btnk.me)
+
 一只苦逼的大学生@渤海大学
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYM740&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
